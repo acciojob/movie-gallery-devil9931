@@ -1,2 +1,11 @@
-
+ img {
+      height: 100px;
+      width: 100px;
+      object-fit: cover;
+      display: block;
+      margin: 0 auto;
+    }
+ .row {
+      margin-bottom: 16px;
+    }
 /* Your CSS Code here. */
